@@ -1,4 +1,4 @@
-           CS-101 Bubble Trouble Project
+# CS-101 Bubble Trouble Project
 
 Features implemented:
 1)Parabolic movement of bubbles.
